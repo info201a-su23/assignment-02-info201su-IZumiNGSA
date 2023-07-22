@@ -109,7 +109,7 @@ In the second chapter of *Data Feminism*, Klein and D'Ignazio describe 4 ways th
 * **(R3c)** *I notice that some data is missing and it causes inequality issue.*
 
 ### Critical Analysis & Reflection: After You Code (questions above)
-* **(R7h)**  *The CountLove project can embody multiple forms of challenging power as described in the chapter. For instance, under the category of "Collect", the CountLove project gathers data about protest activities, data that may be overlooked or neglected by traditional institutions. In the "Analyze", the project uses this data to highlight and examine societal trends which can illuminate inequities or injustices.*
+* **(R7h)**  *The CountLove project can embody multiple forms of challenging power as described in the chapter. For instance, in the category of "Collect", CountLove gathers data about protest activities, data that may be overlooked or neglected by traditional institutions. In the "Analyze" part, they use  data to highlight and examine societal trends which can illuminate inequities or injustices.*
 * 
 * **(R7i)**  *It is surprising and interesting to learn about the breadth and depth of the data that the CountLove project collects. This is also an opportunity to understand the power and importance of citizen-led data collection on some serious societal issues.*
 * 
