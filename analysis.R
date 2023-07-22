@@ -2,10 +2,10 @@
 #
 # A2: Assignment 2 (A2)
 #    INFO-201 (Autumn 2022)
-#    dhendry@uw.edu
+#    chufew2@uw.edu
 
 # Practice set info ---- 
-practice.begin("A2", learner="[your name]", email="[your e-mail]")
+practice.begin("A2", learner="[Chufeng Wang]", email="[chufew2@uw.edu]")
 
 # Your 44 prompts ----
 
