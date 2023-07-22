@@ -85,28 +85,32 @@ In the second chapter of *Data Feminism*, Klein and D'Ignazio describe 4 ways th
 
 ### Critical Analysis & Reflection: Before You Code (questions above)
 
-* **(R1a)** *According to the FAQ on the CountLove website and the opening of the blog post, the creators started collecting the CountLove data to provide more accurate, comprehensive, and accessible information about protest events in the United States. They noticed a lack of systematic collection and recording of such events, especially for smaller, local protests.*\
+* **(R1a)** *According to the FAQ on the CountLove website and the opening of the blog post, the creators started collecting the CountLove data to provide more accurate, comprehensive, and accessible information about protest events in the United States. They noticed a lack of systematic collection and recording of such events, especially for smaller, local protests.*
 * 
-* **(R1b)** *The main argument is that the Black Lives Matter movement was likely the largest movement in the nation's history, with between 15 million and 26 million people participating in demonstrations in the wake of George Floyd's killing. The article also emphasizes the widespread nature of the protests, which extended to hundreds of towns and cities that had not seen such protests before.*\
+* **(R1b)** *The main argument is that the Black Lives Matter movement was likely the largest movement in the nation's history, with between 15 million and 26 million people participating in demonstrations in the wake of George Floyd's killing. The article also emphasizes the widespread nature of the protests, which extended to hundreds of towns and cities that had not seen such protests before.*
 * 
-* **(R1c)** *The CountLove data was collected and shared by researchers Nathan Perkins and Jay Ulfelder. Perkins is a mathematician, and Ulfelder is a political scientist.*\
+* **(R1c)** *The CountLove data was collected and shared by researchers Nathan Perkins and Jay Ulfelder. Perkins is a mathematician, and Ulfelder is a political scientist.*
 * 
-* **(R1d)**  *CountLove includes a broad range of demonstrations in their data: protests, strikes, boycotts, rallies, marches, and walkouts. They exclude some types of public political actions like lobbying, voting, social media campaigns, and individual acts of resistance or civil disobedience.*\
+* **(R1d)**  *CountLove includes a broad range of demonstrations in their data: protests, strikes, boycotts, rallies, marches, and walkouts. They exclude some types of public political actions like lobbying, voting, social media campaigns, and individual acts of resistance or civil disobedience.*
 * 
-* **(R1e)**  *(CountLove sources their data about protests from news media reports. They manually curate the data from these sources, which include national, local, and community news outlets.*\
+* **(R1e)**  *(CountLove sources their data about protests from news media reports. They manually curate the data from these sources, which include national, local, and community news outlets.*
 * 
-* **(R1f)** *CountLove estimates the number of people who attended a protest based on the highest reliable attendance figure they can find in the media sources. Potential problems with this method could include over or underestimation due to inaccurate reporting, bias in media outlets, or lack of coverage for smaller protests.*\
+* **(R1f)** *CountLove estimates the number of people who attended a protest based on the highest reliable attendance figure they can find in the media sources. Potential problems with this method could include over or underestimation due to inaccurate reporting, bias in media outlets, or lack of coverage for smaller protests.*
 * 
-* **(R1g)** *Two central values are transparency and inclusivity. Transparency is demonstrated in their methodology and open-source approach to sharing data. Inclusivity is reflected in their attempt to count and value all forms of public protest, regardless of size or media coverage, giving a voice to even the smallest gatherings.*\
+* **(R1g)** *Two central values are transparency and inclusivity. Transparency is demonstrated in their methodology and open-source approach to sharing data. Inclusivity is reflected in their attempt to count and value all forms of public protest, regardless of size or media coverage, giving a voice to even the smallest gatherings.*
 * 
-* **(R1h)** *A direct stakeholder in Count Love would be the researchers themselves, Nathan Perkins and Jay Ulfelder. They are directly involved in collecting, analyzing, and publishing the data. An indirect stakeholder might be the general public or specific interest groups who use the data to understand the landscape of political activism in the United States, plan their own activism, or use it as a research tool.*\
+* **(R1h)** *A direct stakeholder in Count Love would be the researchers themselves, Nathan Perkins and Jay Ulfelder. They are directly involved in collecting, analyzing, and publishing the data. An indirect stakeholder might be the general public or specific interest groups who use the data to understand the landscape of political activism in the United States, plan their own activism, or use it as a research tool.*
 *  
 ### Part 3: Locations (`analysis.R`)
-* **(R3a)** *Yes, it does surprise me because of the number is really huge. But it is also reasonable to be that huge*\
-* **(R3b)** *Yes, it is really convenient and powerful code in R.*\
-* **(R3c)** *I notice that some data is missing and it causes inequality issue.*\
+* **(R3a)** *Yes, it does surprise me because of the number is really huge. But it is also reasonable to be that huge*
+* 
+* **(R3b)** *Yes, it is really convenient and powerful code in R.*
+* 
+* **(R3c)** *I notice that some data is missing and it causes inequality issue.*
 
 ### Critical Analysis & Reflection: After You Code (questions above)
-* **(R7h)**  The CountLove project can embody multiple forms of challenging power as described in the chapter. For instance, under the category of "Collect", the CountLove project gathers data about protest activities, data that may be overlooked or neglected by traditional institutions. In the "Analyze", the project uses this data to highlight and examine societal trends which can illuminate inequities or injustices. 
-* **(R7i)**  It is surprising and interesting to learn about the breadth and depth of the data that the CountLove project collects. This is also an opportunity to understand the power and importance of citizen-led data collection on some serious societal issues.
-* **(R7j)**  CountLove could involve temporal and geographic patterns in their data. In other words, they can analyze how protests flow and end over time in response to national or global events. 
+* **(R7h)**  *The CountLove project can embody multiple forms of challenging power as described in the chapter. For instance, under the category of "Collect", the CountLove project gathers data about protest activities, data that may be overlooked or neglected by traditional institutions. In the "Analyze", the project uses this data to highlight and examine societal trends which can illuminate inequities or injustices.*
+* 
+* **(R7i)**  *It is surprising and interesting to learn about the breadth and depth of the data that the CountLove project collects. This is also an opportunity to understand the power and importance of citizen-led data collection on some serious societal issues.*
+* 
+* **(R7j)**  *CountLove could involve temporal and geographic patterns in their data. In other words, they can analyze how protests flow and end over time in response to national or global events.*
